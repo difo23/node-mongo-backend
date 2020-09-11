@@ -1,0 +1,14 @@
+{
+  "name": "ministerio-backend",
+  "version": "0.0.1",
+  "description": "El backend del proyecto ministerio",
+  "author": "Dusan <dusan@ayscom.com> (http://www.ayscom.com)",
+  "scripts": {
+    "start": "node --harmony ./server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.11.2",
+    "mongodb": "^1.4.31"
+  }
+}
